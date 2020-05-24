@@ -1,0 +1,39 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "name": "Баклажаны",
+      "quantity": 1,
+      "currency": "RUB",
+      "price": 360
+    },
+    {
+      "id": 2,
+      "name": "Курица",
+      "quantity": 1,
+      "currency": "RUB",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Пирожки",
+      "quantity": 1,
+      "currency": "RUB",
+      "price": 22
+    },
+    {
+      "id": 4,
+      "name": "Пирожные",
+      "quantity": 1,
+      "currency": "EUR",
+      "price": 1.2
+    },
+    {
+      "id": 5,
+      "name": "Борщ",
+      "quantity": 1,
+      "currency": "USD",
+      "price": 13
+    }
+  ]
+}
