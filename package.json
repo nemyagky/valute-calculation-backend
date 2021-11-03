@@ -26,6 +26,6 @@
     "helmet": "^3.21.2",
     "json-server": "^0.16.1",
     "node-fetch": "^2.6.0",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
