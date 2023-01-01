@@ -12,7 +12,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "nodemon": "^1.19.4",
-    "ts-loader": "^6.2.1",
+    "ts-loader": "^9.4.2",
     "ts-node": "^8.5.0",
     "tslint": "^5.20.1",
     "typescript": "^3.7.2"
